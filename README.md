@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ravi
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning html and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C programming
+- 📫 How to reach me Instagram :  ravi207123
 
 <!---
 Ravi207123/Ravi207123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
